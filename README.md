@@ -1,6 +1,6 @@
 # Soft System Prompt Generation
 
-## Installtion
+## Installation
 
 Simply install python packages using the provided requirements file:
 ```
